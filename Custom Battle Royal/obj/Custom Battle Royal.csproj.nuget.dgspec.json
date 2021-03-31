@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/Custom Battle Royal.csproj": {}
+  },
+  "projects": {
+    "/Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/Custom Battle Royal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/Custom Battle Royal.csproj",
+        "projectName": "Custom Battle Royal",
+        "projectPath": "/Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/Custom Battle Royal.csproj",
+        "packagesPath": "/Users/joeyjay/.nuget/packages/",
+        "outputPath": "/Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/joeyjay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
