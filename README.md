@@ -2,25 +2,25 @@
 
 Handing for my course in C# during my first year at YRGO.
 
-##What is this?
+## What is this?
 
 Anyone remember the old style GBA Pokemon games?
 Well, here you can do far more than a pokemon battle, my friend.
 Here you can create your own fighter through a text based interface in your terminal.
 
 
-##How does it work?
+## How does it work?
 You navigate using the error keys an use the enter key to make your selection.
 You can choose between single computer Player VS Player or Player VS AI.
 Once you selected your your mode, you get to choose to either create your own fighter,
 or pick a premade one.
 
-##Premade chracter
+## Premade chracter
 Upon picking a premade one, you'll see a short summery of what they can do.
 You get 4 attacks with each fighter that can you can decide yourself on creation.
 If you don't like the chracter, you can always preview another or create a new one.
 
-###Creating new Fighter
+### Creating new Fighter
 First thing you'll need is a good name for you fighter. So satrt off by typing one down.
 Once that is done, you get 4 different actions to add.
 Start by typing the name you want to give your first action and press enter.
@@ -37,11 +37,11 @@ a list of 6 different options of effects to apply to it:
 
 Once you've made your descsion your always free to change it before finalizing. You fighter will then be saved.
 
-###AI
+### AI
 AI apponent has the same rules of actions like you do. Only difference is that he will pick an action at random.
 You may chose yourself if you'd like to have a random AI chosen or chose which fighter it will use.
 
-###Game
+### Game
 Game starts off by asking how long you want your fights, and provide you with 4 options:
 * Short (Each fighter have 50HP)
 * Medium (Each fighter has 100HP)
@@ -58,11 +58,11 @@ After you selected an attack, there will be a miss chance involved.
 If you hit, the effect is applied, if not *sad trumpet noice*.
 Even if you where to apply heal for yourself, there is a risk the opponent may interveen.
 
-###Game Over
+### Game Over
 Once the match is done, the game's over and the winner is appointed.
 You'll also have the option of a rematch with the same fighters or quit the game.
 
-###Future improvments
+### Future improvments
 There is a ton of options I'd like to include to the game for future updates.
 Among them being the following:
 * Elemental damge and weaknes strengths system.
