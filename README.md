@@ -36,14 +36,14 @@ a list of 6 different options of effects to apply to it:
 * Guard (Bracing yourself, you'll only take half the amount of damge of next incoming attack)
 * Rage (You sacrifce 2 attack rounds, in exchange you'll deal 30HP damge on your third + any damage tacken)
 
-Once you've made your descsion your always free to change it before finalizing. You fighter will then be saved.
+Once you've made your descsion your always free to change it before finalizing. Your fighter will then be saved.
 
 ### AI
-AI apponent has the same rules of actions like you do. Only difference is that he will pick an action at random.
-You may chose yourself if you'd like to have a random AI chosen or chose which fighter it will use.
+AI apponent has the same rules of actions as you do. The only difference is that he will pick an action at random.
+You may choose yourself if you'd like to have a random AI chosen or chose which fighter it will use.
 
 ### Game
-Game starts off by asking how long you want your fights, and provide you with 4 options:
+The game starts by asking how long you want your fights, and provide you with 4 options:
 * Short (Each fighter have 50HP)
 * Medium (Each fighter has 100HP)
 * Long (Each fighter has 200HP)
@@ -51,7 +51,7 @@ Game starts off by asking how long you want your fights, and provide you with 4 
 
 After this you'll be provided with a short intro text then you'll find the players name (listed in cyan)
 at the top with it's health, folllowed by the AI/Player2 (listed in Red).
-Each player have his/hers attacks printed out together with 2 additional options.
+Each player has his/hers attacks printed out together with 2 additional options.
 * Do nothing (If you want to give your oponent a freebie)
 * Surrender (Quit the game and make your opponent the victor)
 
@@ -72,3 +72,5 @@ Among them being the following:
 * AI difficulty settings
 * Win / Lose stats for each fighter type.
 * Registration with level systems based on exp system.
+
+
