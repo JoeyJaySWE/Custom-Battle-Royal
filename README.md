@@ -1,3 +1,4 @@
+<img src="./githubCard copy.png">
 # Custom Battle Royal
 
 Handing for my course in C# during my first year at YRGO.
