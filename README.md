@@ -12,8 +12,8 @@ Here you can create your own fighter through a text based interface in your term
 
 
 ## How does it work?
-You navigate using the error keys an use the enter key to make your selection.
-You can choose between single computer Player VS Player or Player VS AI.
+You navigate using the error keys and use the enter key to make your selection.
+You can choose between single Player VS Player or Player VS AI.
 Once you selected your your mode, you get to choose to either create your own fighter,
 or pick a premade one.
 
@@ -23,7 +23,7 @@ You get 4 attacks with each fighter that can you can decide yourself on creation
 If you don't like the chracter, you can always preview another or create a new one.
 
 ### Creating new Fighter
-First thing you'll need is a good name for you fighter. So satrt off by typing one down.
+First thing you'll need is a good name for you fighter. So start off by typing one down.
 Once that is done, you get 4 different actions to add.
 Start by typing the name you want to give your first action and press enter.
 (Repeat this for the following 3 actions).
@@ -32,7 +32,7 @@ Once the names are set, the game will pick each action in order and give you
 a list of 6 different options of effects to apply to it:
 * Tackle (deal normal 10HP damage to opponent)
 * Heal (Heal yourself for upto 30HP OBS! Limited to 4 uses / game)
-* Stun (Give your opponent a 33% chance to be unable to attack for 4 rounds. (new check each round).
+* Stun (Give your opponent a 33% chance to be unable to attack for up to 4 rounds. (new check each round).
 * Dodge (Get a 33% chance to take 0 damge from next attack)
 * Guard (Bracing yourself, you'll only take half the amount of damge of next incoming attack)
 * Rage (You sacrifce 2 attack rounds, in exchange you'll deal 30HP damge on your third + any damage tacken)
@@ -50,7 +50,7 @@ The game starts by asking how long you want your fights, and provide you with 4 
 * Long (Each fighter has 200HP)
 * Custom (Set the fighter HP yourself)
 
-After this you'll be provided with a short intro text then you'll find the players name (listed in cyan)
+After this you'll be provided with a short intro text, then you'll find the players name (listed in cyan)
 at the top with it's health, folllowed by the AI/Player2 (listed in Red).
 Each player has his/hers attacks printed out together with 2 additional options.
 * Do nothing (If you want to give your oponent a freebie)
