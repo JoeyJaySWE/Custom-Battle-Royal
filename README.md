@@ -2,7 +2,7 @@
 
 # Custom Battle Royal
 
-Handing for my course in C# during my first year at YRGO.
+Hand-in for my course in C# during my first year at YRGO.
 
 ## What is this?
 
