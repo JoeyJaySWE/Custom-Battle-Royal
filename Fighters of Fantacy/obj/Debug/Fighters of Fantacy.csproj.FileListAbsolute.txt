@@ -1,0 +1,33 @@
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters of Fantacy.csproj.AssemblyReference.cache
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters of Fantacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters_of_Fantacy.Forms.NewFighter.resources
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters_of_Fantacy.MainMenu.resources
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters_of_Fantacy.Properties.Resources.resources
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters of Fantacy.csproj.GenerateResource.cache
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters of Fantacy.exe.licenses
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters of Fantacy.csproj.CoreCompileInputs.cache
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\Fighters of Fantacy.exe.config
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\Fighters of Fantacy.exe
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\Fighters of Fantacy.pdb
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters of Fantacy.csproj.CopyComplete
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters of Fantacy.exe
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Fighters of Fantacy\obj\Debug\Fighters of Fantacy.pdb

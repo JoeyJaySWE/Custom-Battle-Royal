@@ -1,8 +1,11 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/joeyjay/.dotnet/store/|arch|/|tfm|",
-      "/Users/joeyjay/.nuget/packages"
+      "C:\\Users\\jcjh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jcjh\\.nuget\\packages",
+      "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+      "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+      "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
     ]
   }
 }

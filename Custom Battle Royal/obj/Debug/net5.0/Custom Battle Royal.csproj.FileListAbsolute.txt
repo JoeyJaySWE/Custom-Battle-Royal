@@ -13,3 +13,19 @@
 /Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/obj/Debug/net5.0/ref/Custom Battle Royal.dll
 /Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/obj/Debug/net5.0/Custom Battle Royal.pdb
 /Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/obj/Debug/net5.0/Custom Battle Royal.genruntimeconfig.cache
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\bin\Debug\net5.0\Custom Battle Royal.exe
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\bin\Debug\net5.0\Custom Battle Royal.deps.json
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\bin\Debug\net5.0\Custom Battle Royal.runtimeconfig.json
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\bin\Debug\net5.0\Custom Battle Royal.runtimeconfig.dev.json
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\bin\Debug\net5.0\Custom Battle Royal.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\bin\Debug\net5.0\Custom Battle Royal.pdb
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\Custom Battle Royal.csproj.AssemblyReference.cache
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\Custom Battle Royal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\Custom Battle Royal.AssemblyInfoInputs.cache
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\Custom Battle Royal.AssemblyInfo.cs
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\Custom Battle Royal.csproj.CoreCompileInputs.cache
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\Custom Battle Royal.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\refint\Custom Battle Royal.dll
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\Custom Battle Royal.pdb
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\Custom Battle Royal.genruntimeconfig.cache
+C:\Users\jcjh\Documents\Repos\Custom-Battle-Royal\Custom Battle Royal\obj\Debug\net5.0\ref\Custom Battle Royal.dll

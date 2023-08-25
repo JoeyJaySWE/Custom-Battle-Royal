@@ -8,24 +8,41 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/joeyjay/.nuget/packages/": {}
+    "C:\\Users\\jcjh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
+    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/Custom Battle Royal.csproj",
+      "projectUniqueName": "C:\\Users\\jcjh\\Documents\\Repos\\Custom-Battle-Royal\\Custom Battle Royal\\Custom Battle Royal.csproj",
       "projectName": "Custom Battle Royal",
-      "projectPath": "/Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/Custom Battle Royal.csproj",
-      "packagesPath": "/Users/joeyjay/.nuget/packages/",
-      "outputPath": "/Users/joeyjay/Documents/wu20/C#/Custom Battle Royal/Custom Battle Royal/obj/",
+      "projectPath": "C:\\Users\\jcjh\\Documents\\Repos\\Custom-Battle-Royal\\Custom Battle Royal\\Custom Battle Royal.csproj",
+      "packagesPath": "C:\\Users\\jcjh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jcjh\\Documents\\Repos\\Custom-Battle-Royal\\Custom Battle Royal\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
-        "/Users/joeyjay/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jcjh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "C:\\TFS\\Utveckling\\NuGet Packages": {},
+        "C:\\Users\\jcjh\\Documents\\Självstudier\\C#\\Templates\\NuGets": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +66,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
